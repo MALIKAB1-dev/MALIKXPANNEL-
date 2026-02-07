@@ -1,1 +1,1 @@
-return {["MALIK"]={["device"]="sh72726gkqk261",["password"]="1",["expiry"]="01/01/2099",["sid"]="X"},["AB"]={["device"]="sh72726gkqk261",["password"]="1",["expiry"]="28/02/2026",["sid"]="VIP"}}
+return {["MALIK"]={["device"]="sh72726gkqk261",["password"]="1",["expiry"]="01/01/2099",["sid"]="X"},["AB"]={["device"]="sh72726gkqk261",["password"]="1",["expiry"]="28/02/2026",["sid"]="VIP"},["HANZO"]={["device"]="1769009443405138524",["password"]="X",["expiry"]="01/01/2099",["sid"]="XVIP"}}
