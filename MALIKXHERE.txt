@@ -1,0 +1,14 @@
+{
+    ["MALIK"] = {
+        ["password"] = "X",
+        ["expiry"] = "25/12/2026",
+        ["device"] = "ONLYMALIKX",
+        ["sid"] = "X"
+    },
+    ["User2"] = {
+        ["password"] = "MySecret",
+        ["expiry"] = "01/01/2027",
+        ["device"] = "YOUR_DEVICE_ID_HERE",
+        ["sid"] = "X"
+    }
+}
