@@ -1,7 +1,7 @@
 {
     ["MALIK"] = {
         password = "123",
-        expiry = "20/01/2026",
+        expiry = "20/01/2027",
         device = "ONLYMALIKX",
         sid = "X"
     }
