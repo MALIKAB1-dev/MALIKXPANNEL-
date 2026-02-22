@@ -5,5 +5,12 @@
   "news_msg": "",
   "show_news": false,
   "maintenance": false,
-  "users": {}
+  "users": {
+    "1": {
+      "password": "1",
+      "expiry": "24/03/2026",
+      "device": "1",
+      "sid": "X"
+    }
+  }
 }
