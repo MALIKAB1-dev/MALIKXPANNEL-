@@ -1,0 +1,20 @@
+{
+  "version": "1.1",
+  "script_url": "",
+  "new_name": "ALL IN ONE .LUA",
+  "news_msg": "",
+  "show_news": false,
+  "maintenance": "OFF",
+  "users": {
+    "1": {
+      "password": "1",
+      "expiry": "24/03/2026",
+      "device": "1",
+      "sid": "X"
+    }
+  },
+  "is_active": "false",
+  "maint_reason": "NOTHING",
+  "maint_timer": "NOTHING",
+  "update_url": "github.com"
+}
