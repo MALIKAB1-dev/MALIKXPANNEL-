@@ -1,1 +1,12 @@
-
+{
+  "config": {
+    "version": "1.1",
+    "script_name": "TESTING"
+  },
+  "ABX": {
+    "password": "1",
+    "expiry": "01/01/2055",
+    "device": "22",
+    "sid": "ss"
+  }
+}
