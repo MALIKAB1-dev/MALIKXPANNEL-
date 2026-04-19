@@ -2,8 +2,8 @@
   "1": {
     "password": "1",
     "expiry": "",
-    "device": "DEPLOYER",
-    "sid": ""
+    "device": "",
+    "sid": "DEPLOYER"
   },
   "config": {
     "version": "2.0",
