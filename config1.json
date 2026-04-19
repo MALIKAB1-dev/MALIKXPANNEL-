@@ -1,1 +1,12 @@
-
+{
+  "1": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": ""
+  },
+  "config": {
+    "version": "1.1",
+    "script_name": "TESTING"
+  }
+}
