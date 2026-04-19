@@ -8,11 +8,5 @@
   "config": {
     "version": "2.0",
     "script_name": "TESTING"
-  },
-  "ALI": {
-    "password": "1",
-    "expiry": "",
-    "device": "1776602526",
-    "sid": "DEPLOYER"
   }
 }
