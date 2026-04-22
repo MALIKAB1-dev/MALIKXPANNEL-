@@ -2,5 +2,11 @@
   "config": {
     "version": "2.0",
     "script_name": "TESTING"
+  },
+  "MAKCIK": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "DEPLOYER"
   }
 }
