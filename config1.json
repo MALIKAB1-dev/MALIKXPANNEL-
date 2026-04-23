@@ -8,5 +8,11 @@
     "expiry": "",
     "device": "",
     "sid": "DEPLOYER"
+  },
+  "CPM": {
+    "password": "PLAYER",
+    "expiry": "",
+    "device": "",
+    "sid": "DEPLOYER "
   }
 }
