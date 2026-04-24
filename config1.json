@@ -14,5 +14,11 @@
     "expiry": "",
     "device": "1776958996",
     "sid": "DEPLOYER"
+  },
+  "DIABLO": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "DEPLOYER"
   }
 }
