@@ -20,5 +20,11 @@
     "expiry": "",
     "device": "",
     "sid": "DEPLOYER"
+  },
+  "MR": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "DEPLOYER"
   }
 }
