@@ -42,7 +42,7 @@
   "KING": {
     "password": "1",
     "expiry": "",
-    "device": "",
+    "device": "1776000768",
     "sid": "DEPLOYER"
   }
 }
