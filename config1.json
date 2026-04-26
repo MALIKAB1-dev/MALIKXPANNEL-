@@ -38,5 +38,11 @@
     "expiry": "",
     "device": "",
     "sid": "DEPLOYER"
+  },
+  "KING": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "DEPLOYER"
   }
 }
