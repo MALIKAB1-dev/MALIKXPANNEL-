@@ -50,5 +50,11 @@
     "expiry": "",
     "device": "1777347066",
     "sid": "DEPLOYER"
+  },
+  "NORAH": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "DEPLOYER"
   }
 }
