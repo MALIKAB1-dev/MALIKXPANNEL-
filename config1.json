@@ -50,5 +50,11 @@
     "expiry": "",
     "device": "1777430268",
     "sid": "DEPLOYER"
+  },
+  "OCHILOV": {
+    "password": "X",
+    "expiry": "",
+    "device": "",
+    "sid": "DEPLOYER"
   }
 }
