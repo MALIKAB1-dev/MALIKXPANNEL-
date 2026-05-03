@@ -56,5 +56,11 @@
     "expiry": "",
     "device": "",
     "sid": "DEPLOYER"
+  },
+  "SAAD": {
+    "password": "1",
+    "expiry": "",
+    "device": "",
+    "sid": "DEPLOYER"
   }
 }
