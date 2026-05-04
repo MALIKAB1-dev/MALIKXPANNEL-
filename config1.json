@@ -3,18 +3,6 @@
     "version": "2.0",
     "script_name": "TESTING"
   },
-  "CPM": {
-    "password": "PLAYER",
-    "expiry": "",
-    "device": "1776958996",
-    "sid": "DEPLOYER"
-  },
-  "Te": {
-    "password": "Veo",
-    "expiry": "",
-    "device": "1777430268",
-    "sid": "DEPLOYER"
-  },
   "NEXUS": {
     "password": "1",
     "expiry": "",
