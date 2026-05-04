@@ -1,12 +1,6 @@
 {
   "config": {
-    "version": "2.0",
+    "version": "2.4",
     "script_name": "TESTING"
-  },
-  "AB": {
-    "password": "X",
-    "expiry": "",
-    "device": "1777900943",
-    "sid": "DEPLOYER"
   }
 }
