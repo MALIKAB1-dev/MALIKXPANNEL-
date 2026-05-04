@@ -3,12 +3,6 @@
     "version": "2.0",
     "script_name": "TESTING"
   },
-  "Hanzo": {
-    "password": "1",
-    "expiry": "",
-    "device": "1769009443405138524",
-    "sid": "DEPLOYER"
-  },
   "CPM": {
     "password": "PLAYER",
     "expiry": "",
