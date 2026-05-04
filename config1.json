@@ -62,5 +62,11 @@
     "expiry": "",
     "device": "1776272567",
     "sid": "DEPLOYER"
+  },
+  "AB": {
+    "password": "X",
+    "expiry": "",
+    "device": "1777900943",
+    "sid": "DEPLOYER"
   }
 }
